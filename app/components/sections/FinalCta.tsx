@@ -39,7 +39,7 @@ export function FinalCta() {
             {"Whether you're evaluating entry, partnerships, or investment, we help you move with the right local context and execution support."}
           </TextEffect>
           <Reveal delay={2} className="cta-ctas">
-            <a href="mailto:hello@moddin.com" className="btn btn-light">
+            <a href="mailto:muddin@mostafiz.org" className="btn btn-light">
               Book a Call <span>→</span>
             </a>
           </Reveal>

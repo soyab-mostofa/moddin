@@ -39,15 +39,17 @@ export function Footer() {
             <address className="not-italic text-[14.5px] text-cream/80 leading-[1.55]">
               Moddin
               <br />
-              Dhaka, Bangladesh
+              H: 654, R: 09 Ave: 04
+              <br />
+              Mirpur DOHS, Dhaka 1216
               <br />
               <br />
-              <a href="mailto:hello@moddin.com" className="hover:opacity-100 hover:text-ember">
-                hello@moddin.com
+              <a href="mailto:muddin@mostafiz.org" className="hover:opacity-100 hover:text-ember">
+                muddin@mostafiz.org
               </a>
               <br />
-              <a href="tel:+8801730035100" className="hover:opacity-100 hover:text-ember">
-                +880 1730 035 100
+              <a href="tel:+8801784398934" className="hover:opacity-100 hover:text-ember">
+                +880 1784-398934
               </a>
             </address>
           </div>
@@ -83,7 +85,7 @@ export function Footer() {
               </a>
             ))}
             <a
-              href="mailto:hello@moddin.com"
+              href="mailto:muddin@mostafiz.org"
               aria-label="Mail"
               className="size-[42px] rounded-full border border-[var(--rule-d-2)] grid place-items-center transition-all duration-[250ms] text-cream hover:bg-ember hover:border-ember hover:text-ink hover:-translate-y-0.5"
             >
